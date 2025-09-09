@@ -1,5 +1,7 @@
 package com.example.lab_week_02_b
 
+//comment
+
 import android.app.Activity
 import android.os.Bundle
 import android.widget.Button
